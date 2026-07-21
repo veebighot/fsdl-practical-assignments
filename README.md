@@ -1,7 +1,7 @@
 # FSDL Practical Assignments
 
 ## Student Details
-Name: Your Name
+Name: Student Name
 Roll No: Your Roll Number
 Class: TY B.Tech
 Division: Your Division
@@ -17,10 +17,10 @@ This repository contains all previous FSDL practical assignments and a hosted pe
 - Assignment 04
 
 ## Hosted Website Link
-Live Website: Pending deployment
+Live Website: https://veebighot.github.io/fsdl-practical-assignments/
 
 ## Repository Link
-GitHub Repository: Pending repository creation
+GitHub Repository: https://github.com/veebighot/fsdl-practical-assignments
 
 ## Technologies Used
 Git, GitHub, HTML, CSS, JavaScript, GitHub Pages
