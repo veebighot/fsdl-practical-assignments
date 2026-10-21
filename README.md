@@ -1,26 +1,18 @@
 # FSDL Practical Assignments
 
-## Student Details
-Name: Student Name
-Roll No: Your Roll Number
-Class: TY B.Tech
-Division: Your Division
-Subject: Full Stack Development Lab
-
-## Repository Description
-This repository contains all previous FSDL practical assignments and a hosted personal profile website.
+**Name:** Vaishnavi Bighot  
+**PRN / Roll No:** [Your Roll No]  
+**Class & Division:** Final Year B.Tech CSE  
+**Subject:** Full Stack Development Lab  
 
 ## Assignments Included
-- Assignment 01
-- Assignment 02
-- Assignment 03
-- Assignment 04
+- Assignment 01: Repository Management and Profile Hosting
+- Assignment 02: Personal Portfolio
+- Assignment 03: Shopping App
+- Assignment 04: Placement Analytics Dashboard
 
-## Hosted Website Link
-Live Website: https://veebighot.github.io/fsdl-practical-assignments/
+## Hosted Profile Website
+Live Link: https://VaishnaviBighot.github.io/fsdl-practical-assignments/
 
 ## Repository Link
-GitHub Repository: https://github.com/veebighot/fsdl-practical-assignments
-
-## Technologies Used
-Git, GitHub, HTML, CSS, JavaScript, GitHub Pages
+https://github.com/VaishnaviBighot/fsdl-practical-assignments
